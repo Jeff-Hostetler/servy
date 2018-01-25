@@ -1,6 +1,6 @@
 # Servy
 
-**TODO: Add description**
+**TODO: Learning elixir**
 
 ## Installation
 
